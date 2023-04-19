@@ -1,0 +1,17 @@
+E:\bridgeLab\C_Sharpe\InventoryManagement\bin\Debug\net6.0\InventoryManagement.exe
+E:\bridgeLab\C_Sharpe\InventoryManagement\bin\Debug\net6.0\InventoryManagement.deps.json
+E:\bridgeLab\C_Sharpe\InventoryManagement\bin\Debug\net6.0\InventoryManagement.runtimeconfig.json
+E:\bridgeLab\C_Sharpe\InventoryManagement\bin\Debug\net6.0\InventoryManagement.dll
+E:\bridgeLab\C_Sharpe\InventoryManagement\bin\Debug\net6.0\InventoryManagement.pdb
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.AssemblyReference.cache
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.AssemblyInfoInputs.cache
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.AssemblyInfo.cs
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.CoreCompileInputs.cache
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.dll
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\refint\InventoryManagement.dll
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.pdb
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.genruntimeconfig.cache
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\ref\InventoryManagement.dll
+E:\bridgeLab\C_Sharpe\InventoryManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.CopyComplete

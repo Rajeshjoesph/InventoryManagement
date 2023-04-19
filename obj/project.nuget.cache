@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0f8cFeSNeaSnRUFgKsWTCpoth+NIeVPt5LZy0/zht92a3AC+JwFgxyCajAp0HYMIL0Dlepo3B+2LF9hs5E4SA==",
+  "success": true,
+  "projectFilePath": "E:\\bridgeLab\\C_Sharpe\\InventoryManagement\\InventoryManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rajesh Joesph\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
