@@ -10,7 +10,7 @@ namespace InventoryManagement
 {
     public class inventoryDetails
     {
-        public ProductDetail productDetail;
+        public List <ProductDetail> productDetail;
     }
     public class ProductDetail{
         public int PCode;

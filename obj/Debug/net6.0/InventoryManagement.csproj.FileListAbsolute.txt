@@ -15,3 +15,4 @@ E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.g
 E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\ref\InventoryManagement.dll
 E:\bridgeLab\C_Sharpe\InventoryManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
 E:\bridgeLab\C_Sharpe\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.CopyComplete
+E:\bridgeLab\C_Sharpe\InventoryManagement\bin\Debug\net6.0\ConsoleTables.dll

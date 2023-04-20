@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
+using ConsoleTables;
 using InventoryManagement;
 using warehouseManagement;
 
@@ -11,11 +12,19 @@ namespace warehouse{
             FetchInventory fetchInventory=new FetchInventory();
 
             inventoryDetails data=fetchInventory.Read(path);
-            Console.WriteLine("PCode\t\tPName\t\t\tCategory\tMRP");
-            Console.WriteLine(data.productDetail.PCode+"\t"+data.productDetail.PName+"\t"+data.productDetail.Category+"\t"+data.productDetail.Mrp);
-            // Console.WriteLine();
-            // Console.WriteLine();
-            // Console.WriteLine();
+            var table=new ConsoleTable("PCode","PName","Category","Mrp");
+
+            for (int i = 0; i < data.productDetail.Count; i++)
+            {
+                table.AddRow(data.productDetail[i].PCode,data.productDetail[i].PName,data.productDetail[i].Category,data.productDetail[i].Mrp);
+                // Console.Write("\n"+data.productDetail[i].PCode);
+                // Console.Write(data.productDetail[i].PName);
+                // Console.Write(data.productDetail[i].Category);
+                // Console.Write(data.productDetail[i].Mrp);
+                
+            }
+            Console.WriteLine(table);
+           
         }
     }
 }
